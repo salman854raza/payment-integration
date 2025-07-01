@@ -1,0 +1,134 @@
+[
+  {
+    "id": "1",
+    "name": "Classic Cotton T-Shirt",
+    "category": "men",
+    "price": 29.99,
+    "description": "Premium quality cotton t-shirt with a comfortable fit. Perfect for casual wear and everyday comfort.",
+    "image": "https://images.pexels.com/photos/1040945/pexels-photo-1040945.jpeg",
+    "sizes": ["S", "M", "L", "XL", "XXL"],
+    "inStock": true,
+    "featured": true
+  },
+  {
+    "id": "2",
+    "name": "Slim Fit Denim Jeans",
+    "category": "men",
+    "price": 79.99,
+    "description": "Modern slim fit jeans crafted from premium denim. Versatile style that works for both casual and smart-casual occasions.",
+    "image": "https://images.pexels.com/photos/1598507/pexels-photo-1598507.jpeg",
+    "sizes": ["28", "30", "32", "34", "36", "38"],
+    "inStock": true,
+    "featured": false
+  },
+  {
+    "id": "3",
+    "name": "Casual Button-Down Shirt",
+    "category": "men",
+    "price": 49.99,
+    "description": "Versatile button-down shirt in breathable cotton blend. Perfect for office or weekend wear.",
+    "image": "https://images.pexels.com/photos/1040945/pexels-photo-1040945.jpeg",
+    "sizes": ["S", "M", "L", "XL"],
+    "inStock": true,
+    "featured": true
+  },
+  {
+    "id": "4",
+    "name": "Comfortable Hoodie",
+    "category": "men",
+    "price": 59.99,
+    "description": "Cozy fleece hoodie with kangaroo pocket. Perfect for layering and casual comfort.",
+    "image": "https://images.pexels.com/photos/1040945/pexels-photo-1040945.jpeg",
+    "sizes": ["S", "M", "L", "XL", "XXL"],
+    "inStock": true,
+    "featured": false
+  },
+  {
+    "id": "5",
+    "name": "Elegant Floral Dress",
+    "category": "women",
+    "price": 89.99,
+    "description": "Beautiful floral print dress with a flattering A-line silhouette. Perfect for special occasions and everyday elegance.",
+    "image": "https://images.pexels.com/photos/1040945/pexels-photo-1040945.jpeg",
+    "sizes": ["XS", "S", "M", "L", "XL"],
+    "inStock": true,
+    "featured": true
+  },
+  {
+    "id": "6",
+    "name": "High-Waisted Skinny Jeans",
+    "category": "women",
+    "price": 69.99,
+    "description": "Flattering high-waisted skinny jeans with stretch comfort. A wardrobe essential for modern women.",
+    "image": "https://images.pexels.com/photos/1040945/pexels-photo-1040945.jpeg",
+    "sizes": ["24", "26", "28", "30", "32", "34"],
+    "inStock": true,
+    "featured": false
+  },
+  {
+    "id": "7",
+    "name": "Silk Blouse",
+    "category": "women",
+    "price": 79.99,
+    "description": "Luxurious silk blouse with elegant draping. Perfect for professional and formal occasions.",
+    "image": "https://images.pexels.com/photos/1040945/pexels-photo-1040945.jpeg",
+    "sizes": ["XS", "S", "M", "L", "XL"],
+    "inStock": true,
+    "featured": true
+  },
+  {
+    "id": "8",
+    "name": "Cozy Cardigan",
+    "category": "women",
+    "price": 65.99,
+    "description": "Soft knit cardigan perfect for layering. Comfortable and stylish for any season.",
+    "image": "https://images.pexels.com/photos/1040945/pexels-photo-1040945.jpeg",
+    "sizes": ["XS", "S", "M", "L", "XL"],
+    "inStock": true,
+    "featured": false
+  },
+  {
+    "id": "9",
+    "name": "Fun Graphic T-Shirt",
+    "category": "kids",
+    "price": 19.99,
+    "description": "Colorful graphic t-shirt made from soft, kid-friendly cotton. Perfect for active play and everyday wear.",
+    "image": "https://images.pexels.com/photos/1040945/pexels-photo-1040945.jpeg",
+    "sizes": ["2T", "3T", "4T", "5T", "6", "8", "10", "12"],
+    "inStock": true,
+    "featured": true
+  },
+  {
+    "id": "10",
+    "name": "Comfortable Play Shorts",
+    "category": "kids",
+    "price": 24.99,
+    "description": "Durable and comfortable shorts designed for active kids. Easy-care fabric that stands up to play.",
+    "image": "https://images.pexels.com/photos/1040945/pexels-photo-1040945.jpeg",
+    "sizes": ["2T", "3T", "4T", "5T", "6", "8", "10", "12"],
+    "inStock": true,
+    "featured": false
+  },
+  {
+    "id": "11",
+    "name": "Adorable Summer Dress",
+    "category": "kids",
+    "price": 34.99,
+    "description": "Sweet summer dress with playful patterns. Comfortable fit that's perfect for special occasions.",
+    "image": "https://images.pexels.com/photos/1040945/pexels-photo-1040945.jpeg",
+    "sizes": ["2T", "3T", "4T", "5T", "6", "8", "10", "12"],
+    "inStock": true,
+    "featured": true
+  },
+  {
+    "id": "12",
+    "name": "Warm Winter Jacket",
+    "category": "kids",
+    "price": 79.99,
+    "description": "Insulated winter jacket to keep kids warm and cozy. Water-resistant with fun color options.",
+    "image": "https://images.pexels.com/photos/1040945/pexels-photo-1040945.jpeg",
+    "sizes": ["2T", "3T", "4T", "5T", "6", "8", "10", "12"],
+    "inStock": true,
+    "featured": false
+  }
+]
